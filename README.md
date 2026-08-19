@@ -38,44 +38,6 @@ I enjoy working in agile environments, contributing to multidisciplinary teams a
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-
-### **Front-End**
-- [React.js](ca://s?q=Tell_me_more_about_React), [Next.js](ca://s?q=Explain_Next_js), Angular, Angular.js 
-- TypeScript, JavaScript (ES6+)  
-- HTML5, CSS3  
-- Webpack, Vite  
-
-### **UI / Estilização**
-- Tailwind CSS  
-- Styled Components  
-- SASS  
-- Bootstrap  
-
-### **Back-End**
-- Node.js  
-- PHP, Laravel  
-- MySQL, PostgreSQL  
-- Prisma ORM  
-
-### **Testes**
-- Cypress  
-- Jest  
-- React Testing Library  
-
-### **Integrações & IA**
-- [OpenAI API](ca://s?q=How_does_OpenAI_API_work)  
-- META API (WhatsApp & Instagram)  
-- Automação com IA e AI-Coding  
-
-### **Outros**
-- Git, GitHub, GitLab, Bitbucket  
-- Azure DevOps  
-- SCRUM / Kanban  
-- [Clean Code](ca://s?q=Explain_Clean_Code_principles), SOLID, Design Patterns  
-
----
-
 ## 🎓 Formação
 
 - **Pós-Graduação em Tecnologias da Informação — FACSUL (2023)**  
@@ -83,6 +45,64 @@ I enjoy working in agile environments, contributing to multidisciplinary teams a
 - **Mobile React Native — Udemy**  
 
 ---
+## 🛠️ Tecnologias & Ferramentas
+
+### **Front-End**
+| Tecnologia | Descrição |
+|-----------|-----------|
+| **[React.js](ca://s?q=Tell_me_more_about_React)** | Core da minha atuação em interfaces modernas |
+| **[Next.js](ca://s?q=Explain_Next_js)** | SSR, SSG, rotas, performance |
+| TypeScript | Tipagem avançada e segurança |
+| JavaScript (ES6+) | Base sólida para aplicações web |
+| Angular / AngularJS | Experiência em projetos corporativos |
+| HTML5 / CSS3 | Estrutura e estilização |
+| Cypress | Testes E2E |
+| Jest | Testes unitários |
+| React Testing Library | Testes de componentes |
+
+### **UI / Estilização**
+| Ferramenta | Uso |
+|------------|-----|
+| Tailwind CSS | Interfaces rápidas e responsivas |
+| Styled Components | Componentização com estilo |
+| SASS | Pré-processamento CSS |
+| Bootstrap | Layouts ágeis |
+
+### **Back-End**
+| Tecnologia | Descrição |
+|-----------|-----------|
+| Node.js | APIs, serviços e integrações |
+| Prisma ORM | Modelagem e acesso a dados |
+| PHP / Laravel | Sistemas internos e dashboards |
+| MySQL / PostgreSQL | Bancos relacionais |
+
+### **IA & Integrações**
+| Tecnologia | Descrição |
+|-----------|-----------|
+| **[OpenAI API](ca://s?q=How_does_OpenAI_API_work)** | Chatbots, automações e ferramentas inteligentes |
+| META API (WhatsApp/Instagram) | Integração conversacional |
+| AI-Coding | Aceleração de desenvolvimento |
+
+### **Outros**
+| Ferramenta | Descrição |
+|------------|-----------|
+| Git / GitHub / GitLab / Bitbucket | Versionamento |
+| Azure DevOps | Pipelines e gestão ágil |
+| SCRUM / Kanban | Metodologias ágeis |
+| **[Clean Code](ca://s?q=Explain_Clean_Code_principles)** | Código limpo e sustentável |
+| SOLID | Arquitetura robusta |
+| Design Patterns | Padrões de projeto |
+
+---
+## 💼 Experiência (Resumo)
+
+| Empresa | Cargo | Período | Principais Atividades |
+|--------|--------|---------|------------------------|
+| MillionTech | Full Stack | 2026–Atual | IA com OpenAI, META API, automações |
+| Globoo.io | Full Stack | 2025 | Angular/React, blockchain, sistemas internos |
+| SESI / FIEMS | Analista de Sistemas | 2023–2024 | Next.js, React, Cypress, APIs |
+| FAPEC | Full Stack Jr | 2020–2023 | Laravel, PHP, MySQL, sistemas internos |
+| MaisCode | Programador Web | 2019–2020 | WordPress, PHP, HTML/CSS |
 
 ## 💼 Experiência Profissional
 
