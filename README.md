@@ -19,25 +19,6 @@ Tenho experiência em projetos de médio e alto tráfego, garantindo **performan
 
 ---
 
-## 🌎 About Me (EN)
-
-I’m a **Full Stack Developer** with over **7 years of experience** building modern, scalable and user‑focused web applications.  
-My main expertise lies in **Front-End development**, especially with **React.js** and **Next.js**, creating fast, fluid and accessible interfaces.
-
-In recent years, I’ve also expanded my work into **Back-End development** with **Node.js**, API integrations and **AI-powered solutions** using the **OpenAI API**, building conversational tools, automations and intelligent features for real-world systems.
-
-I’m passionate about:
-
-- High-performance UI/UX  
-- Scalable architectures  
-- AI-driven development  
-- Clean, maintainable code  
-- Continuous improvement and collaboration  
-
-I enjoy working in agile environments, contributing to multidisciplinary teams and delivering solutions that truly add value to the business.
-
----
-
 ## 🎓 Formação
 
 - **Pós-Graduação em Tecnologias da Informação — FACSUL (2023)**  
